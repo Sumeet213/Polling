@@ -28,7 +28,7 @@ $ npm i
 - [npm](https://nodejs.org/en/download/package-manager/)
 
 
-also, you need to create a .env file similar to the one shown in env.example.
+
 
 
 
