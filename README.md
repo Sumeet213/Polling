@@ -13,7 +13,7 @@ $ npm i
 ```
 
 
-##Endpoints of api
+## Endpoints of api
 - Create your own questions: getpolling.herokuapp.com/question/create
 - Delete the questions:  getpolling.herokuapp.com/question/:id/delete
 - Add Options to the questions:  getpolling.herokuapp.com/question/:id/options/create
