@@ -47,7 +47,7 @@ app.use("/", require("./routes"));
 app.set("layout extractStyles", true);
 app.set("layout extractScripts", true);
 
-app.listen(port, function (err) {
+app.listen(process.env.PORT,'0.0.0.0', function (err) {
   if (err) {
     console.log(`Error in running the server: ${err}`);
   }
